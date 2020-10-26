@@ -1842,9 +1842,10 @@ a:focus {
 	margin-bottom: 42px;
 }
 
+/*
 .banner-one__form {
 	width: 100%;
-	max-width: 600px;
+	max-width: 200px;
 	height: 70px;
 	background-color: #fff;
 	border-radius: 35px;
@@ -1855,6 +1856,7 @@ a:focus {
 	justify-content: space-between;
 	position: relative;
 }
+*/
 
 .banner-one__form-box {
 	display: flex;
@@ -1879,7 +1881,7 @@ a:focus {
 .banner-one__form .thm-btn {
 	position: absolute;
 	top: 50%;
-	right: 10px;
+	right: 500px;
 	transform: translateY(-50%);
 }
 
